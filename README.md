@@ -159,8 +159,3 @@ Created by [Ravi Teja Reddy](https://github.com/Ravitejakoyya/)
 Happy automating! ⚙️🌧️☔️
 
 ```
-
----
-
-If you want, I can also help you generate the `requirements.txt`, `.env.example`, or even the Python script itself!
-```
