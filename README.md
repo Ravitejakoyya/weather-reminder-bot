@@ -1,5 +1,7 @@
 Weather-Based Reminder App project:
 
+[![Daily Weather Reminder](https://github.com/Ravitejakoyya/weather-reminder-bot/actions/workflows/schedule.yml/badge.svg)](https://github.com/Ravitejakoyya/weather-reminder-bot/actions/workflows/schedule.yml)
+
 ````markdown
 # Weather-Based Reminder App ☔️
 
