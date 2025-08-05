@@ -6,7 +6,7 @@ Weather-Based Reminder App project:
 # Weather-Based Reminder App ☔️
 
 A simple Python app that checks the weather forecast and sends you a Slack or Telegram reminder if rain is expected.  
-Automate your daily routine and never forget your umbrella again!
+Automate your daily routine and never forget your umbrella again!!
 
 ---
 
